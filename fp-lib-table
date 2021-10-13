@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name MX_Only)(type KiCad)(uri ${KIPRJMOD}/MX_Alps_Hybrid/MX_Only.pretty)(options "")(descr ""))
   (lib (name random-keyboard-parts)(type KiCad)(uri ${KIPRJMOD}/random-keyboard-parts.pretty)(options "")(descr ""))
+  (lib (name promicro)(type KiCad)(uri ${KIPRJMOD}/ProMicroKiCad/promicro.pretty)(options "")(descr ""))
 )

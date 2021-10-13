@@ -576,4 +576,15 @@ Text GLabel 7850 3750 1    50   Input ~ 0
 COL0
 Text GLabel 8450 3750 1    50   Input ~ 0
 COL1
+$Comp
+L promicro:ProMicro ProMicro1
+U 1 1 616FA80C
+P 6450 1900
+F 0 "ProMicro1" H 6450 2937 60  0000 C CNN
+F 1 "ProMicro" H 6450 2831 60  0000 C CNN
+F 2 "" H 6550 850 60  0000 C CNN
+F 3 "" H 6550 850 60  0000 C CNN
+	1    6450 1900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
