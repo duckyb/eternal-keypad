@@ -1,4 +1,4 @@
-# Flippable Gamepad
+# ETERNAL Keypad
 ## Scope of the project
 The objective is to create an input device for gaming that can be assembled for both right and left hand mouse users.  
 This would be especially beneficial for left hand mouse users, allowing them to have a more comfortable gaming experience
