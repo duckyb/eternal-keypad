@@ -23,8 +23,9 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - [ ] Tag the version and publish the first release
 - [ ] Testing phase!
 
-### Right hand mouse users:
-![image](https://user-images.githubusercontent.com/27895007/137307434-617b07b3-ab02-4e94-9305-6164325e341b.png)
+## Layouts
+|For right handed mouse|For left handed mouse|
+|---|---|
+| ![image](https://user-images.githubusercontent.com/27895007/137307434-617b07b3-ab02-4e94-9305-6164325e341b.png) | ![image](https://user-images.githubusercontent.com/27895007/137307726-7d56e23b-0267-4741-9922-938ffb8a3098.png) |
 
-### Left hand mouse users:
-![image](https://user-images.githubusercontent.com/27895007/137307726-7d56e23b-0267-4741-9922-938ffb8a3098.png)
+Note: The "A" and "D" keys are not mirrored to avoid inverting movement controls with default key-bindings.
