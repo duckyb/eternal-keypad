@@ -1,3 +1,8 @@
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/27895007/137556449-4c22bc49-4566-451d-b1f5-bf977f3b0f48.png"/>
+</div>
+
 # ETERNAL Keypad
 ## Scope of the project
 The objective is to create an input device for gaming that can be assembled for both right and left hand mouse users.  
