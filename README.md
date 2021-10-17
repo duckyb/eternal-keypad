@@ -16,11 +16,11 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - [x] Design the first alpha version
 - [x] Pick a name
 - [x] Pick a logo 
-- [ ] Add holes for mouting hardware or space for gaskets
-- [ ] Copy the silk screen on the PCB back
+- [x] Add holes for mouting hardware ~~or space for gaskets~~
+- [x] Copy the silk screen on the PCB back
 - [ ] Order the first prototypes (eta ~ November)
 - [ ] Write the firmware
-- [ ] Tag the version and publish the first release
+- [x] Tag the version and publish the first release
 - [ ] Testing phase!
 
 ## Layouts
