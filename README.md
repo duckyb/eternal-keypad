@@ -18,7 +18,7 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - [x] Pick a logo 
 - [x] Add holes for mouting hardware ~~or space for gaskets~~
 - [x] Copy the silk screen on the PCB back
-- [ ] Order the first prototypes (eta ~ November)
+- [x] Order the first prototypes (eta ~ November)
 - [x] Write the firmware
 - [x] Tag the version and publish the first release
 - [ ] Testing phase!
