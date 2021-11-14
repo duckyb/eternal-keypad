@@ -18,9 +18,9 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - [x] Design the first prototype and write firmware
 - [x] Order and assemble prototypes
 - [x] Start testing phase
-- [ ] Last minor adjustments
-- [ ] Design switch plate and bottom plate
-- [ ] Publish final release
+- [x] Last minor adjustments
+- [x] Design switch plate and bottom plate
+- [x] Publish final release
 
 ## Layouts
 |For right handed mouse|For left handed mouse|
