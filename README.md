@@ -4,6 +4,8 @@
 </div>
 
 # ETERNAL Keypad
+![github-preview](https://user-images.githubusercontent.com/27895007/139288233-7d9123b4-a197-4697-ad04-7d979d552419.jpg)
+
 ## Scope of the project
 Eternal Keypad is an **open-source input device for gaming** that can be assembled for **both right and left hand mouse users**.  
 
@@ -13,15 +15,12 @@ This device aims to fill this gap in the market that companies don't care about 
 The device is Pro-micro compatible, so it's easier to build and source components.
 
 ## Schedule
-- [x] Design the first alpha version
-- [x] Pick a name
-- [x] Pick a logo 
-- [x] Add holes for mouting hardware ~~or space for gaskets~~
-- [x] Copy the silk screen on the PCB back
-- [x] Order the first prototypes (eta ~ November)
-- [x] Write the firmware
-- [x] Tag the version and publish the first release
-- [ ] Testing phase!
+- [x] Design the first prototype and write firmware
+- [x] Order and assemble prototypes
+- [x] Start testing phase
+- [ ] Last minor adjustments
+- [ ] Design switch plate and bottom plate
+- [ ] Publish final release
 
 ## Layouts
 |For right handed mouse|For left handed mouse|
