@@ -14,17 +14,25 @@ This device aims to fill this gap in the market that companies don't care about 
 
 The device is Pro-micro compatible, so it's easier to build and source components.
 
-## Schedule
-- [x] Design the first prototype and write firmware
-- [x] Order and assemble prototypes
-- [x] Start testing phase
-- [x] Last minor adjustments
-- [x] Design switch plate and bottom plate
-- [x] Publish final release
+## Components list
+
+### For the Keyboard (required)
+- x36 through-hole diodes. (I use "1N4148 CDIL" from tme.eu)
+- x36 MX style switches
+- x1 2u stabilizer
+- Keycaps
+- x1 Micro controller (Pro-micro or equivalent)
+
+### For the case
+- x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
+- x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
 
 ## Layouts
 |For right handed mouse|For left handed mouse|
 |---|---|
-| ![image](https://user-images.githubusercontent.com/27895007/137307434-617b07b3-ab02-4e94-9305-6164325e341b.png) | ![image](https://user-images.githubusercontent.com/27895007/137307726-7d56e23b-0267-4741-9922-938ffb8a3098.png) |
+| ![image](./gallery/default-layout.jpg) | ![image](./gallery/lefty-layout.jpg) |
 
-Note: The "A" and "D" keys are not mirrored to avoid inverting movement controls with default key-bindings.
+Note: 
+- The "A" and "D" keys are not mirrored to avoid inverting movement controls with default key-bindings.
+- The "FN" key is used to access the missing half of the keyboard
+- Holding the 0 key turns WASD into arrow keys
