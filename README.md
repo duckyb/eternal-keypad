@@ -23,11 +23,16 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - Keycaps
 - x1 Micro controller (Pro-micro or equivalent)
 
-### For the case
+### For the case (recommended)
 - x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
 - x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
+- 4x Rubber bump-on feet
 
-## Layouts
+## Firmware
+
+You can find the firmware in the release section, ready to download and flash.  
+If you want to customize it, you can do so using QMK.
+
 |For right handed mouse|For left handed mouse|
 |---|---|
 | ![image](./gallery/default-layout.jpg) | ![image](./gallery/lefty-layout.jpg) |
