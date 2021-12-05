@@ -33,9 +33,7 @@ The device is Pro-micro compatible, so it's easier to build and source component
 You can find the firmware in the release section, ready to download and flash.  
 If you want to customize it, you can do so using QMK.
 
-|For right handed mouse|For left handed mouse|
-|---|---|
-| ![image](./gallery/default-layout.jpg) | ![image](./gallery/lefty-layout.jpg) |
+![eternal_keypad](https://user-images.githubusercontent.com/27895007/144766524-34c60960-4822-4969-bea0-e457201abc7f.png)
 
 Note: 
 - The "A" and "D" keys are not mirrored to avoid inverting movement controls with default key-bindings.
