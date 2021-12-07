@@ -15,12 +15,11 @@ This device aims to fill this gap in the market that companies don't care about 
 The device is Pro-micro compatible, so it's easier to build and source components.
 
 ## How can I make this?
+[Video guide coming soon!](https://www.youtube.com/channel/UC_03MjxkaPudKdDhxODsy4g)
 
-Video coming soon!
+### Components list
 
-## Components list
-
-### For the Keyboard (required)
+#### For the Keyboard (required)
 - [ETERNAL Keypad PCB](https://github.com/duckyb/eternal-keypad/releases/latest)
 - x36 through-hole diodes. (I use "1N4148 CDIL" from tme.eu)
 - x36 MX style switches
@@ -28,7 +27,7 @@ Video coming soon!
 - Keycaps (The set pictured above is "Honey & Milk XDA")
 - x1 Micro controller (Pro-micro or equivalent)
 
-### For the case (recommended)
+#### For the case (recommended)
 - [ETERNAL Keypad switch plate & bottom plate](https://github.com/duckyb/eternal-keypad/releases/latest)
 - x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
 - x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
@@ -36,7 +35,11 @@ Video coming soon!
 
 ## Firmware
 
-You can find the firmware in the [release section](https://github.com/duckyb/eternal-keypad/releases/latest), ready to download and flash.  
+<a href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/eternal_keypad" target="_blank">
+  <img src="https://qmk.fm/assets/images/badge-small-light.svg" width="200"/>
+</a>
+
+You can find both firmwares in the [release section](https://github.com/duckyb/eternal-keypad/releases/latest), ready to download and flash.  
 If you want to customize it, you can do so using QMK.
 
 ![eternal_keypad](https://user-images.githubusercontent.com/27895007/144766801-a8390a4f-9810-4c56-9442-b2406a4ed4ce.png)
