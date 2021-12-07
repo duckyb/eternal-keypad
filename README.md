@@ -21,20 +21,22 @@ Video coming soon!
 ## Components list
 
 ### For the Keyboard (required)
+- [ETERNAL Keypad PCB](https://github.com/duckyb/eternal-keypad/releases/latest)
 - x36 through-hole diodes. (I use "1N4148 CDIL" from tme.eu)
 - x36 MX style switches
 - x1 2u stabilizer
-- Keycaps
+- Keycaps (The set pictured above is "Honey & Milk XDA")
 - x1 Micro controller (Pro-micro or equivalent)
 
 ### For the case (recommended)
+- [ETERNAL Keypad switch plate & bottom plate](https://github.com/duckyb/eternal-keypad/releases/latest)
 - x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
 - x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
 - 4x Rubber bump-on feet
 
 ## Firmware
 
-You can find the firmware in the release section, ready to download and flash.  
+You can find the firmware in the [release section](https://github.com/duckyb/eternal-keypad/releases/latest), ready to download and flash.  
 If you want to customize it, you can do so using QMK.
 
 ![eternal_keypad](https://user-images.githubusercontent.com/27895007/144766801-a8390a4f-9810-4c56-9442-b2406a4ed4ce.png)
