@@ -15,7 +15,9 @@ This device aims to fill this gap in the market that companies don't care about 
 The device is Pro-micro compatible, so it's easier to build and source components.
 
 ## How can I make this?
-[Video guide coming soon!](https://www.youtube.com/channel/UC_03MjxkaPudKdDhxODsy4g)
+<a href="https://youtu.be/vkTpa7AnWUo" target="_blank">
+  <img src="https://gist.githubusercontent.com/duckyb/337340baa1f0c8bcc06fef7b3b57242b/raw/97e6e0748dd1b8a3fb54fac0a88e84e6b6e0e10a/build-guide-button.svg" height="44">
+</a>
 
 ### Components list
 
