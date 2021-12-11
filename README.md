@@ -6,6 +6,11 @@
 # ETERNAL Keypad
 ![git-preview (Small)](https://user-images.githubusercontent.com/27895007/144914161-c3f6f8ba-5b78-4c85-b8e2-320ba73d80ce.png)
 
+<a href="https://github.com/duckyb/eternal-keypad/releases">
+  <img src="https://img.shields.io/github/downloads/duckyb/eternal-keypad/total?color=success">
+  <img src="https://img.shields.io/github/v/release/duckyb/eternal-keypad?include_prereleases">
+</a>
+
 ## Scope of the project
 Eternal Keypad is an **open-source input device for gaming** that can be assembled for **both right and left hand mouse users**.  
 
