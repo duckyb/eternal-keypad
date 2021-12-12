@@ -3,7 +3,7 @@
   
 </div>
 
-# <img src="https://gist.githubusercontent.com/duckyb/282c2221d859f8134c1b1f0cf4622656/raw/97affc98d0d71566fa6ccb604eef31af2c36752a/eternal-keypad-logo.svg" height="50"/> ETERNAL Keypad
+# <img src="https://gist.githubusercontent.com/duckyb/282c2221d859f8134c1b1f0cf4622656/raw/97affc98d0d71566fa6ccb604eef31af2c36752a/eternal-keypad-logo.svg" height="50" alt="eternal_keypad_logo"/> ETERNAL Keypad
 ![git-preview (Small)](https://user-images.githubusercontent.com/27895007/144914161-c3f6f8ba-5b78-4c85-b8e2-320ba73d80ce.png)
 
 <a href="https://github.com/duckyb/eternal-keypad/releases">
