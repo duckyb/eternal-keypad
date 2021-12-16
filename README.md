@@ -6,10 +6,13 @@
 # <img src="https://gist.githubusercontent.com/duckyb/282c2221d859f8134c1b1f0cf4622656/raw/97affc98d0d71566fa6ccb604eef31af2c36752a/eternal-keypad-logo.svg" height="50" alt="eternal_keypad_logo"/> ETERNAL Keypad
 ![git-preview (Small)](https://user-images.githubusercontent.com/27895007/144914161-c3f6f8ba-5b78-4c85-b8e2-320ba73d80ce.png)
 
-<a href="https://github.com/duckyb/eternal-keypad/releases">
-  <img src="https://img.shields.io/github/downloads/duckyb/eternal-keypad/total?color=success">
-  <img src="https://img.shields.io/github/v/release/duckyb/eternal-keypad?include_prereleases">
-</a>
+<span class="shields">
+  <a href="https://github.com/duckyb/eternal-keypad/releases">
+    <img src="https://img.shields.io/github/downloads/duckyb/eternal-keypad/total?color=success&style=flat-square">
+    <img src="https://img.shields.io/github/v/release/duckyb/eternal-keypad?include_prereleases&color=success&style=flat-square">
+  </a>
+  <img src="https://img.shields.io/github/license/duckyb/eternal-keypad?style=flat-square&color=success">
+</span>
 
 ## Scope of the project
 Eternal Keypad is an **open-source input device for gaming** that can be assembled for **both right and left hand mouse users**.  
@@ -39,6 +42,10 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
 - x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
 - 4x Rubber bump-on feet
+
+## FAQ
+
+Check the [dedicated page](./FAQ.md)
 
 ## Firmware
 
