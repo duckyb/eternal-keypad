@@ -43,6 +43,10 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - x4 M2 standoffs (I use "111X08 DREMEC" from tme.eu)
 - 4x Rubber bump-on feet
 
+### Buy as DIY Kit
+
+It might be more convenient to purchase this project as a kit, check out the [vendors page](./vendors.md).
+
 ## FAQ
 
 Check the [dedicated page](./FAQ.md)
@@ -62,3 +66,7 @@ Note:
 - The "A" and "D" keys are not mirrored to avoid inverting movement controls with default key-bindings.
 - The "FN" key is used to access the missing half of the keyboard
 - Holding the 0 key turns WASD into arrow keys
+
+## Additional Resources
+
+- 3D Printed case by chewiedies → [View on Thingiverse](https://www.thingiverse.com/thing:5329104)
