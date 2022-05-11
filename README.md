@@ -59,9 +59,12 @@ Check the [dedicated page](./FAQ.md)
 <a href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/eternal_keypad" target="_blank">
   <img src="https://qmk.fm/assets/images/badge-small-light.svg" width="200"/>
 </a>
+<a href="https://www.caniusevia.com/">
+  <img src="https://user-images.githubusercontent.com/27895007/167814873-be7de892-754b-4b6b-976c-8983c1baf8e2.svg" width="200"/>
+</a>
 
 You can find both firmwares in the [release section](https://github.com/duckyb/eternal-keypad/releases/latest), ready to download and flash.  
-If you want to customize it, you can do so using QMK.
+If you want to customize it, you can do so using QMK or VIA.
 
 ![eternal_keypad](https://user-images.githubusercontent.com/27895007/144766801-a8390a4f-9810-4c56-9442-b2406a4ed4ce.png)
 
