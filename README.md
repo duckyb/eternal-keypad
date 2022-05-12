@@ -13,7 +13,7 @@
   </a>
   <img src="https://img.shields.io/github/license/duckyb/eternal-keypad?style=flat-square&color=success">
   <a href ="https://discord.gg/3erEKm3uht">
-    <!--img src="https://discordapp.com/api/guilds/914228133786439740/widget.png?style=shield"-->
+    <img src="https://discordapp.com/api/guilds/914228133786439740/widget.png?style=shield">
   </a>
 </span>
 
