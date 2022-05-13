@@ -25,4 +25,12 @@ fp-info-cache
 *.xml
 *.csv
 
+# Footprint libraries
 Keebio-Parts.pretty
+MX_Alps_Hybrid
+ProMicroKiCad
+
+# output folder and files
+gerber_to_order/
+*.zip
+*.dxf
