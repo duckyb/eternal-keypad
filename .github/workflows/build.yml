@@ -1,0 +1,72 @@
+on: [workflow_dispatch]
+
+name: Build
+jobs:
+  gerber:
+    runs-on: ubuntu-latest
+    name: Build Gerbers
+    steps:
+      # CHECKOUT
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # GERBERS
+      - name: Export Gerbers for main PCB
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./pcb-kicad/eternal-keypad.kicad_pcb
+          gerbers_dir: output/gerbers/pcb
+          flags: --nametemplate ek-pcb-{}
+      - name: Export Gerbers for switch plate
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./switch-plate-kicad/eternal-keypad-plate.kicad_pcb
+          gerbers_dir: output/gerbers/switch_plate
+          flags: --nametemplate ek-plate-{}
+      - name: Export Gerbers for bottom plate
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./bottom-plate-kicad/eternal-keypad-bottom.kicad_pcb
+          gerbers_dir: output/gerbers/bottom_plate
+          flags: --nametemplate ek-bottom-{}
+
+      # UPLOADING
+      - name: Upload files
+        uses: actions/upload-artifact@v2
+        with:
+          name: gerbers
+          path: output/gerbers
+  pngs:
+    runs-on: ubuntu-latest
+    name: "Export as PNGs"
+    steps:
+      # CHECKOUT
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # PREVIEWS
+      - name: Build PCB preview
+        uses: ./.github/actions/export-pngs
+        with:
+          pcb_file: ./pcb-kicad/eternal-keypad.kicad_pcb
+          pngs_dir: output/pngs
+          png_out: pcb.png
+      - name: Build Switch Plate preview
+        uses: ./.github/actions/export-pngs
+        with:
+          pcb_file: ./switch-plate-kicad/eternal-keypad-plate.kicad_pcb
+          pngs_dir: output/pngs
+          png_out: plate.png
+      - name: Build Bottom Plate preview
+        uses: ./.github/actions/export-pngs
+        with:
+          pcb_file: ./bottom-plate-kicad/eternal-keypad-bottom.kicad_pcb
+          pngs_dir: output/pngs
+          png_out: bottom.png
+
+      # UPLOADING
+      - name: Upload files
+        uses: actions/upload-artifact@v2
+        with:
+          name: previewPNGs
+          path: output/pngs

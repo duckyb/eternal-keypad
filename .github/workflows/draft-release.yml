@@ -1,0 +1,58 @@
+on: 
+  push:
+    tags:
+      - v*.*.*
+  workflow_dispatch:
+
+name: Release
+jobs:
+  gerber:
+    runs-on: ubuntu-latest
+    name: Draft a Release
+    steps:
+      # CHECKOUT
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      # GERBERS
+      - name: Export Gerbers for main PCB
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./pcb-kicad/eternal-keypad.kicad_pcb
+          gerbers_dir: output/gerbers/pcb
+          flags: --nametemplate ek-pcb-{}
+      - name: Export Gerbers for switch plate
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./switch-plate-kicad/eternal-keypad-plate.kicad_pcb
+          gerbers_dir: output/gerbers/switch_plate
+          flags: --nametemplate ek-plate-{}
+      - name: Export Gerbers for bottom plate
+        uses: ./.github/actions/export-gerbers
+        with:
+          pcb_file: ./bottom-plate-kicad/eternal-keypad-bottom.kicad_pcb
+          gerbers_dir: output/gerbers/bottom_plate
+          flags: --nametemplate ek-bottom-{}
+
+      # PREVIEW
+      - name: Build PCB preview
+        uses: ./.github/actions/export-pngs
+        with:
+          pcb_file: ./pcb-kicad/eternal-keypad.kicad_pcb
+          pngs_dir: output/pngs
+          png_out: pcb.png
+      # Upload the preview PNG as an artifact
+      - name: Upload files
+        uses: actions/upload-artifact@v2
+        with:
+          name: preview
+          path: output/pngs
+
+      - name: Create new draft release
+        uses: softprops/action-gh-release@v1
+        if: startsWith(github.ref, 'refs/tags/')
+        with:
+          draft: true
+          files: |
+            output/gerbers/**/**.zip
+            ./firmware/*.hex
