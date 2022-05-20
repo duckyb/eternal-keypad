@@ -36,9 +36,13 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - [ETERNAL Keypad PCB](https://github.com/duckyb/eternal-keypad/releases/latest)
 - x36 through-hole diodes. (I use "1N4148 CDIL" from tme.eu)
 - x36 MX style switches
+- x36 Kailh Hotswap Sockets
 - x1 2u stabilizer
 - Keycaps (The set pictured above is "Honey & Milk XDA")
 - x1 Micro controller (Pro-micro or equivalent)
+
+Optionals:
+- x8 SK6812MINI RGB LEDs
 
 #### For the case (recommended)
 - [ETERNAL Keypad switch plate & bottom plate](https://github.com/duckyb/eternal-keypad/releases/latest)
