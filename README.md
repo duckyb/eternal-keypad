@@ -42,7 +42,7 @@ The device is Pro-micro compatible, so it's easier to build and source component
 - x1 Micro controller (Pro-micro or equivalent)
 
 Optionals:
-- x8 SK6812MINI RGB LEDs
+- x8 WS2812B RGB LEDs
 
 #### For the case (recommended)
 - [ETERNAL Keypad switch plate & bottom plate](https://github.com/duckyb/eternal-keypad/releases/latest)
