@@ -46,8 +46,9 @@ Optionals:
 
 #### For the case (recommended)
 - [ETERNAL Keypad switch plate & bottom plate](https://github.com/duckyb/eternal-keypad/releases/latest)
+  - If you want to have underglow RGB you should order a laser cut bottom plate from acrylic, using the included `.dxf` file. If you don't care about underglow you can get an FR4 bottom plate PCB using the gerber file.
 - x8 M2 Screws (I use "1154095 BOSSARD" from tme.eu)
-- x4 M2 standoffs ~~(I use "111X08 DREMEC" from tme.eu)~~
+- x4 M2 standoffs (diameter: 3mm, length: 8mm)
 - 4x Rubber bump-on feet
 
 ### Buy as DIY Kit
