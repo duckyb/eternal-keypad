@@ -30,11 +30,11 @@ The device is Pro-micro compatible, so it's easier to build and source component
   <img src="https://gist.githubusercontent.com/duckyb/337340baa1f0c8bcc06fef7b3b57242b/raw/97e6e0748dd1b8a3fb54fac0a88e84e6b6e0e10a/build-guide-button.svg" height="44">
 </a>
 
-### Components list
+### Components list (latest PCB version)
 
 #### For the Keyboard (required)
 - [ETERNAL Keypad PCB](https://github.com/duckyb/eternal-keypad/releases/latest)
-- x36 through-hole diodes. (I use "1N4148 CDIL" from tme.eu)
+- x36 through-hole or surface-mount diodes. (I use "1N4148 CDIL" from tme.eu)
 - x36 MX style switches
 - x36 Kailh Hotswap Sockets
 - x1 2u stabilizer
