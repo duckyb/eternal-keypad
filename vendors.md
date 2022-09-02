@@ -1,7 +1,8 @@
 # Vendors
 
-This is a list of vendors that sell EK DIY Kits
+This is a list of vendors that sell EK
 
-| Store | Warehouse Location | Approx. Price |
-| :---: | :---: | :---: |
-| [CustomKBD](https://customkbd.com/products/eternal-keypad-kit) | Australia | $ 21.00 |
+| Store | Warehouse Location | Type | Approx. Price |
+| :---: | :---: | :---: | :--: |
+| [CustomKBD](https://customkbd.com/products/eternal-keypad-kit) | Australia | DIY Kit | $ 21.00 |
+| [PMM](https://pmm.gg/products/p-k-f-1) | Germany | Fully Assembled | € 250.00 |
