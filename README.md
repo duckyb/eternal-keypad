@@ -15,7 +15,9 @@
 ### Sponsors
 
 <span class="sponsors">
-  <img src="https://user-images.githubusercontent.com/27895007/192096782-2ca086d8-54a3-42fd-a67b-0f1e25f1ffbc.png" height="50"/>
+  <a href="https://shop.beekeeb.com/product/eternal-keypad-kit/">
+    <img src="https://user-images.githubusercontent.com/27895007/192096782-2ca086d8-54a3-42fd-a67b-0f1e25f1ffbc.png" height="50"/>
+  </a>
 </span>
 
 ## Scope of the project
