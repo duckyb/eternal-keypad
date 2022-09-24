@@ -1,12 +1,7 @@
-
-<div align="center">
-  
-</div>
-
 # <img src="https://gist.githubusercontent.com/duckyb/282c2221d859f8134c1b1f0cf4622656/raw/97affc98d0d71566fa6ccb604eef31af2c36752a/eternal-keypad-logo.svg" height="50" alt="eternal_keypad_logo"/> ETERNAL Keypad
 ![ek-preview-rounded](https://user-images.githubusercontent.com/27895007/167808526-7cf01c83-1738-40c4-bed5-d04d67a561a3.png)
 
-<span class="shields">
+<div class="shields">
   <a href="https://github.com/duckyb/eternal-keypad/releases">
     <img src="https://img.shields.io/github/downloads/duckyb/eternal-keypad/total?color=success&style=flat-square">
     <img src="https://img.shields.io/github/v/release/duckyb/eternal-keypad?include_prereleases&color=success&style=flat-square">
@@ -15,6 +10,12 @@
   <a href ="https://discord.gg/3erEKm3uht">
     <img src="https://discordapp.com/api/guilds/914228133786439740/widget.png?style=shield">
   </a>
+</div>
+
+### Sponsors
+
+<span class="sponsors">
+  <img src="https://user-images.githubusercontent.com/27895007/192096782-2ca086d8-54a3-42fd-a67b-0f1e25f1ffbc.png" height="50"/>
 </span>
 
 ## Scope of the project
