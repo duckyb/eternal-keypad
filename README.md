@@ -111,4 +111,4 @@ Note:
 
 ## Additional Resources
 
-- 3D Printed case by chewiedies → [View on Thingiverse](https://www.thingiverse.com/thing:5329104)
+- 3D Printed case by chewiedies → [v4](https://www.thingiverse.com/thing:5329104), [v5, and v6](https://www.printables.com/model/290027-eternal-keypad-v12-gasket-mount-case-w-optional-te)
