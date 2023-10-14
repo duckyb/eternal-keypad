@@ -19,9 +19,6 @@
   <a href="https://shop.beekeeb.com/product/eternal-keypad-kit/">
     <img src="https://user-images.githubusercontent.com/27895007/192096782-2ca086d8-54a3-42fd-a67b-0f1e25f1ffbc.png" height="50"/>
   </a>
-  <a href="https://pmm.gg/products/p-k-f-1">
-    <img src="https://user-images.githubusercontent.com/27895007/193314423-9643389c-9fc6-44ff-8838-dadaf985833c.png" height="50"/>
-  </a>
   <a href="https://www.pcbway.com/project/shareproject/ETERNAL_Keypad_5c58c0de.html">
     <img src="https://user-images.githubusercontent.com/27895007/201170595-901a4723-b910-418c-b273-a5c9987ad1c8.png" height="50"/>
   </a>
