@@ -36,14 +36,14 @@ The device is Pro-micro compatible, so it's easier to build and source component
 
 ## Features
 
-⭕ Standard layout in a half-size form factor (all your keys are still there!)
-⭕ Ortholinear/grid layout for additional comfort
-⭕ Bluetooth support (nice!nano, battery, ZMK, power switch)
-⭕ Hotswap with Kailh Sockets
-⭕ RGB Underglow
-⭕ 3 macro buttons
-⭕ Easy to build
-⭕ Files for FR4 or laser cut plate case included
+⭕ Standard layout in a half-size form factor (all your keys are still there!)  
+⭕ Ortholinear/grid layout for additional comfort  
+⭕ Bluetooth support (nice!nano, battery, ZMK, power switch)  
+⭕ Hotswap with Kailh Sockets  
+⭕ RGB Underglow  
+⭕ 3 macro buttons  
+⭕ Easy to build  
+⭕ Files for FR4 or laser cut plate case included  
 
 ## How can I make this?
 
